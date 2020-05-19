@@ -83,5 +83,4 @@ $conn = mysqli_connect("server ip", "editor", "123edit", "monitoring");
 your-ip-or-domain-server.com/undermo
 ```
 
-![](documentation/undermov1.PNG)
 
