@@ -9,7 +9,7 @@ undermo V2.1 UI
 ![](documentation/undermo.PNG)
 
 undermo V1.0
-![](documentation/undermov1.PNG) 
+![](documentation/undermov1.png) 
 
 ## How it works?
 
@@ -36,7 +36,7 @@ UPDATE data SET suhu = '$suhu' WHERE id = 1;
 EOF
 ```
 
-![](documentation/undermosh.PNG)
+![](documentation/undermosh.png)
 
 - grant permission to the file in order to be able to run it
 
