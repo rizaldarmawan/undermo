@@ -17,10 +17,7 @@ undermo V1.0 UI
 
 undermo.sh fetch data from machine > give it to mysql database > undermo fetch data from database > show it to browser
 ## Documentation & Installation Guide
-### V2.1
-I haven't make any documentation for undermo V2.1, because currently i don't have the galileo
 
-### V1.0
 Before we begin, first open your galileo, and make a user for mysql database, for example i'm gonna make a user called **editor** with password **123edit**
 
 - Download undermo v1.0 and extract it, there will be a folder named undermo
