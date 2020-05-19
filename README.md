@@ -20,7 +20,7 @@ undermo.sh fetch data from machine > give it to mysql database > undermo fetch d
 
 Before we begin, first open your galileo, and make a user for mysql database, for example i'm gonna make a user called **editor** with password **123edit**
 
-- Download undermo v1.0 and extract it, there will be a folder named undermo
+- Download undermo and extract it, there will be a folder named undermo
 - Remote your galileo
 - open undermo folder and look for undermo.sh, then move it to /etc/init.d
 - edit the bottom of the file like this
