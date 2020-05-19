@@ -8,12 +8,12 @@ undermo V2.1 UI
 
 ![](documentation/undermo.PNG)
 
-undermo V1.0
+undermo V1.0 UI
 ![](documentation/undermov1.png) 
 
 ## How it works?
 
-<img src="documentation/undermotopology.PNG" width="100" margin-left="400" />
+<img src="documentation/undermotopology.png" width="100" margin-left="400" />
 
 undermo.sh fetch data from machine > give it to mysql database > undermo fetch data from database > show it to browser
 ## Documentation & Installation Guide
