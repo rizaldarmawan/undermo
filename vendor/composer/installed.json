@@ -1,0 +1,27 @@
+{
+    "packages": [
+        {
+            "name": "bower-asset/jquery",
+            "version": "3.5.1",
+            "version_normalized": "3.5.1.0",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:jquery/jquery-dist.git",
+                "reference": "4c0e4becb8263bb5b3e6dadc448d8e7305ef8215"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jquery/jquery-dist/zipball/4c0e4becb8263bb5b3e6dadc448d8e7305ef8215",
+                "reference": "4c0e4becb8263bb5b3e6dadc448d8e7305ef8215"
+            },
+            "type": "bower-asset",
+            "installation-source": "dist",
+            "license": [
+                "MIT"
+            ],
+            "install-path": "../bower-asset/jquery"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
